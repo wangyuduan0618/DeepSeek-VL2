@@ -390,7 +390,7 @@ This code repository is licensed under [MIT License](./LICENSE-CODE). The use of
 ```
 @misc{wu2024deepseekvl2mixtureofexpertsvisionlanguagemodels,
       title={DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding},
-      author={Zhiyu Wu and Xiaokang Chen and Zizheng Pan and Xingchao Liu and Wen Liu and Damai Dai and Huazuo Gao and Yiyang Ma and Chengyue Wu and Bingxuan Wang and Zhenda Xie and Yu Wu and Kai Hu and Jiawei Wang and Yaofeng Sun and Yukun Li and Yishi Piao and Kang Guan and Aixin Liu and Xin Xie and Yuxiang You and Kai Dong and Xingkai Yu and Haowei Zhang and Liang Zhao and Yisong Wang and Chong Ruan},
+      author={Zhiyu Wu and Xiaokang Chen and Zizheng Pan and Xingchao Liu and Wen Liu and Damai Dai and Huazuo Gao and Yiyang Ma and Chengyue Wu and Bingxuan Wang and Zhenda Xie and Yu Wu and Kai Hu and Jiawei Wang and Yaofeng Sun and Yukun Li and Yishi Piao and Kang Guan and Aixin Liu and Yuxiang You and Kai Dong and Xingkai Yu and Haowei Zhang and Liang Zhao and Yisong Wang and Chong Ruan},
       year={2024},
       eprint={2412.10302},
       archivePrefix={arXiv},
@@ -402,3 +402,6 @@ This code repository is licensed under [MIT License](./LICENSE-CODE). The use of
 ## 7. Contact
 
 If you have any questions, please raise an issue or contact us at [service@deepseek.com](mailto:service@deepseek.com).
+
+
+Related project: [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL)
